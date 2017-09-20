@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\workspace\\project\\wallet\\code\\JNIDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\workspace\\project\\wallet\\code\\JNIDemo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\workspace\\project\\wallet\\code\\JNIDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\workspace\\project\\wallet\\code\\JNIDemo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

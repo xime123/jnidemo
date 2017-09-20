@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\workspace\\project\\wallet\\code\\JNIDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\developtool\\adt-bundle-windows-x86_64-20140101\\sdk\\.android\\build-cache\\6e38b774987f00d851fb1cc0063fb4247d6839f5\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\workspace\\project\\wallet\\code\\JNIDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\developtool\\adt-bundle-windows-x86_64-20140101\\sdk\\.android\\build-cache\\6e38b774987f00d851fb1cc0063fb4247d6839f5\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\workspace\\project\\wallet\\code\\JNIDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\developtool\\adt-bundle-windows-x86_64-20140101\\sdk\\.android\\build-cache\\6e38b774987f00d851fb1cc0063fb4247d6839f5\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\workspace\\project\\wallet\\code\\JNIDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\developtool\\adt-bundle-windows-x86_64-20140101\\sdk\\.android\\build-cache\\6e38b774987f00d851fb1cc0063fb4247d6839f5\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]
